@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "465082959500",
+    "project_id": "metavy-c4a36",
+    "storage_bucket": "metavy-c4a36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465082959500:android:b4912a85649500dc4b9da9",
+        "android_client_info": {
+          "package_name": "com.metavy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465082959500-8s4kq6qp69sc93c5nu59kuj0qgaece7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metavy",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "465082959500-ilgmidap3tks9a3il53pd3acbkr2tnmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjWjlbrWTjiU1vxD2IOhKh35IIWB1PGWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465082959500-ilgmidap3tks9a3il53pd3acbkr2tnmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
